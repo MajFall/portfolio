@@ -69,7 +69,7 @@ Bienvenue sur mon portfolio GitHub ! Je suis actuellement étudiante en Licence 
 - Approfondir mes connaissances en Deep Learning, notamment en utilisant des architectures avancées comme les réseaux de neurones convolutifs (CNN) pour la vision par ordinateur.
 - Développer mes compétences en traitement des données volumineuses et en intelligence artificielle appliquée.
 - Explorer les frameworks de développement mobile pour l'intégration avancée d'IA.
-- - Approfondir mes connaissances en intelligence artificielle en lisant *"L'Intelligence Artificielle : Une Approche Moderne"* de Stuart Russell, qui explore les concepts fondamentaux, les défis et les applications de l'IA.
+- Approfondir mes connaissances en intelligence artificielle en lisant *"L'Intelligence Artificielle : Une Approche Moderne"* de Stuart Russell, qui explore les concepts fondamentaux, les défis et les applications de l'IA.
 
 
  ## 🎨 Centres d'Intérêt
