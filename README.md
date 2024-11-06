@@ -88,4 +88,4 @@ Bienvenue sur mon portfolio GitHub ! Je suis actuellement étudiante en Licence 
 ### 📫 Me Contacter
 
 - **Email** : madjiguene.fall@univ-lyon2.fr
-- **LinkedIn** : linkedin.com/in/madjiguene-fall
+-  [Linkdin](linkedin.com/in/madjiguene-fall)
