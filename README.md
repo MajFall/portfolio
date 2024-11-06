@@ -53,8 +53,8 @@ Bienvenue sur mon portfolio GitHub ! Je suis actuellement étudiante en Licence 
 - **Lien vers le code source** : [NiortConnect sur GitHub](https://github.com/MajFall/Niort_Connect_App)
 - **Consultation Diapo** : [NiortConnect Diapo](https://www.canva.com/design/DAGBh8JJ_pI/zyrwUzQcYO-ZpKxSGmWJTA/view?utm_content=DAGBh8JJ_pI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - **Démo visuelle** :
-   ![Capture d'écran NiortConnect 1](URL_de_l_image_1)
-   ![Capture d'écran NiortConnect 2](URL_de_l_image_2)
+   ![Capture d'écran NiortConnect 1]([URL_de_l_image_1](https://github.com/MajFall/portfolio/blob/main/image-1.jpg))
+   ![Capture d'écran NiortConnect 2]([URL_de_l_image_2](https://github.com/MajFall/portfolio/blob/main/image-2.jpg))
   
 ### Site Web (CAAS) de Lutte contre l'Anévrisme et l'AVC au Sénégal
 **Contexte** : Projet de lutte contre l'anévrisme et les AVC au Sénégal, visant à sensibiliser le public et collecter des dons. Ce site a été réalisé en collaboration avec une autre personne, en tant que membre de l'association.
