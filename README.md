@@ -51,6 +51,7 @@ Bienvenue sur mon portfolio GitHub ! Je suis actuellement étudiante en Licence 
   - Interface utilisateur intuitive, facilitant la navigation et l'interaction.
 - **Compétences acquises** : Développement mobile, analyse et modélisation de données, gestion de bases de données, collaboration en équipe.
 - **Lien vers le code source** : [NiortConnect sur GitHub](https://github.com/MajFall/Niort_Connect_App)
+- **Consultation Diapo** : https://www.canva.com/design/DAGBh8JJ_pI/zyrwUzQcYO-ZpKxSGmWJTA/view?utm_content=DAGBh8JJ_pI&utm_campaign=designshare&utm_medium=link&utm_source=editor
 - **Démo visuelle** :
    ![Capture d'écran NiortConnect 1](URL_de_l_image_1)
    ![Capture d'écran NiortConnect 2](URL_de_l_image_2)
