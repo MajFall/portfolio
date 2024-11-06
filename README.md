@@ -55,6 +55,11 @@ Bienvenue sur mon portfolio GitHub ! Je suis actuellement étudiante en Licence 
 - **Démo visuelle** :
    ![Capture d'écran NiortConnect 1](URL_de_l_image_1)
    ![Capture d'écran NiortConnect 2](URL_de_l_image_2)
+  
+### Site Web (CAAS) de Lutte contre l'Anévrisme et l'AVC au Sénégal
+**Contexte** : Projet de lutte contre l'anévrisme et les AVC au Sénégal, visant à sensibiliser le public et collecter des dons. Ce site a été réalisé en collaboration avec une autre personne, en tant que membre de l'association.
+- **Objectif** : Créer une plateforme de collecte de dons et d'information sur la prévention des AVC et de l'anévrisme.
+- **Lien vers le site** : [CAAS]([#ajouter-lien-ici](https://www.caasenegal.sn/))
 
 ### 🔧 Compétences
 
