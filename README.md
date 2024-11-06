@@ -77,12 +77,10 @@ Bienvenue sur mon portfolio GitHub ! Je suis actuellement étudiante en Licence 
 - Explorer les frameworks de développement mobile pour l'intégration avancée d'IA.
 - Approfondir mes connaissances en intelligence artificielle en lisant *"L'Intelligence Artificielle : Une Approche Moderne"* de Stuart Russell, qui explore les concepts fondamentaux, les défis et les applications de l'IA.
 
-
  ### 🎨 Centres d'Intérêt
 
 - **Dessin** : Cette activité développe ma patience, mon attention aux détails et ma créativité.
 - **Handball** : Pratique régulière  développant mon esprit d'équipe, ma discipline et ma gestion du stress.
-
 
 
 ### 📫 Me Contacter
